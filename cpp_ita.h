@@ -47,3 +47,4 @@
 #define principale main
 #define stampa cout
 #define salva cin
+#define nomespazio namespace 
